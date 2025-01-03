@@ -45,8 +45,6 @@ namespace WashUrHelmet
 
             helmetStainRandomizeDone.Value = false;
             helmetStain.SetActive(false);
-
-            ModConsole.Print("helmet visor washed");
         }
 
         public static void SmoothStainWash()
